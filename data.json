@@ -1,0 +1,31 @@
+{
+  "next_id": 5,
+  "xp": 60,
+  "level": 1,
+  "achievements": [
+    "First Task Done"
+  ],
+  "tasks": {},
+  "completed": {
+    "3": {
+      "id": 3,
+      "title": "math assignment",
+      "category": "study",
+      "due_date": "2025-09-23",
+      "priority": 1,
+      "notes": "complete it",
+      "created_at": "2025-09-14T17:23:20.387023",
+      "completed_at": "2025-09-14T17:23:35.348366"
+    },
+    "4": {
+      "id": 4,
+      "title": "hacakathon project completeion",
+      "category": "project",
+      "due_date": "2025-10-14",
+      "priority": 5,
+      "notes": "jeet jao gaawaoron",
+      "created_at": "2025-10-14T00:49:24.257341",
+      "completed_at": "2025-10-14T00:49:34.540174"
+    }
+  }
+}
